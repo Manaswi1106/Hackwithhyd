@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mem_7b4ba6",
+    "business_category": "Luxury Fashion",
+    "chosen_locality": "Jubilee Hills",
+    "predicted_revenue": 14545980.0,
+    "actual_revenue": 16873337.0,
+    "customer_segment": "Luxury Buyers",
+    "investment": 21474650.0,
+    "success_or_failure": "Success (+16% lift over target)",
+    "strategic_lesson": "Store (4000 sqft) in Jubilee Hills sustained \u20b9168.7L/mo actual revenue under \u20b91120k rent with Luxury Buyers.",
+    "timestamp": "2026-09-28T19:04:16.865376+00:00"
+  }
+]

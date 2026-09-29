@@ -1,0 +1,56 @@
+area,business_name,category,rating,review_count,lat,lng,price_level
+Madhapur,Starbucks Coffee,Specialty Coffee,4.4,1420,17.4485,78.3910,$$$
+Madhapur,Third Wave Coffee,Specialty Coffee,4.5,980,17.4492,78.3885,$$
+Madhapur,Roastery Coffee House,Specialty Coffee,4.6,3200,17.4470,78.3930,$$
+Madhapur,Zara Inorbit,Fashion Retail,4.3,2850,17.4340,78.3860,$$$
+Madhapur,H&M High Street,Fashion Retail,4.2,1920,17.4460,78.3890,$$
+Madhapur,Nike Store,Sports Retail,4.4,850,17.4475,78.3920,$$$
+Madhapur,Bata Store Madhapur,Footwear,3.9,460,17.4498,78.3875,$
+Gachibowli,Starbucks Gachibowli,Specialty Coffee,4.3,1150,17.4410,78.3510,$$$
+Gachibowli,Blue Tokai Coffee Roasters,Specialty Coffee,4.6,840,17.4385,78.3470,$$
+Gachibowli,Concu Bakery & Cafe,Specialty Coffee,4.5,2100,17.4425,78.3520,$$$
+Gachibowli,Puma Store Gachibowli,Sports Retail,4.2,620,17.4395,78.3495,$$
+Gachibowli,Adidas Outlet,Sports Retail,4.3,710,17.4405,78.3480,$$$
+Gachibowli,Dominos Pizza Gachibowli,Restaurant,4.1,1890,17.4415,78.3505,$$
+HITEC City,Starbucks Cyber Towers,Specialty Coffee,4.5,2450,17.4442,78.3780,$$$
+HITEC City,Costa Coffee Inorbit,Specialty Coffee,4.1,760,17.4338,78.3855,$$
+HITEC City,Subway HITEC,Restaurant,4.0,1320,17.4430,78.3765,$
+HITEC City,Hard Rock Cafe,Restaurant,4.4,4100,17.4438,78.3802,$$$$
+HITEC City,Decathlon Inorbit,Sports Retail,4.5,6300,17.4345,78.3870,$$
+Kondapur,The Coffee Cup,Specialty Coffee,4.3,580,17.4580,78.3650,$$
+Kondapur,KFC Kondapur,Restaurant,4.0,1450,17.4565,78.3630,$$
+Kondapur,Bata Kondapur,Footwear,3.8,390,17.4572,78.3645,$
+Financial District,Starbucks WaveRock,Specialty Coffee,4.4,890,17.4230,78.3410,$$$
+Financial District,Theobroma,Bakery & Cafe,4.3,640,17.4215,78.3385,$$
+Financial District,Subway Financial Dist,Restaurant,4.1,510,17.4240,78.3420,$
+Jubilee Hills,Starbucks Road 36,Specialty Coffee,4.6,3100,17.4330,78.4080,$$$
+Jubilee Hills,Roastery Coffee House Road 45,Specialty Coffee,4.7,5400,17.4310,78.4050,$$
+Jubilee Hills,Farzi Cafe,Restaurant,4.3,3800,17.4345,78.4110,$$$$
+Jubilee Hills,Zara Jubilee,Fashion Retail,4.4,1950,17.4335,78.4065,$$$$
+Jubilee Hills,Nike Flagship Store,Sports Retail,4.5,1240,17.4320,78.4095,$$$$
+Banjara Hills,Starbucks Road 12,Specialty Coffee,4.5,2800,17.4120,78.4390,$$$
+Banjara Hills,Autumn Leaf Cafe,Specialty Coffee,4.5,3300,17.4100,78.4350,$$$
+Banjara Hills,Barbeque Nation Banjara,Restaurant,4.4,4900,17.4135,78.4410,$$$
+Banjara Hills,H&M Banjara Hills,Fashion Retail,4.3,2100,17.4095,78.4365,$$
+Banjara Hills,Lifestyle Banjara,Fashion Retail,4.2,3400,17.4115,78.4380,$$$
+Kukatpally,Starbucks Nexus Mall,Specialty Coffee,4.3,1420,17.4855,78.3820,$$$
+Kukatpally,McDonalds KPHB,Restaurant,4.2,4200,17.4840,78.3795,$
+Kukatpally,Bata Mega Store KPHB,Footwear,4.0,1180,17.4860,78.3830,$
+Kukatpally,Trends Reliance,Fashion Retail,4.1,2800,17.4835,78.3800,$$
+Begumpet,Cafe Coffee Day Begumpet,Specialty Coffee,4.0,920,17.4445,78.4730,$$
+Begumpet,Paradise Biryani Begumpet,Restaurant,4.1,8400,17.4430,78.4710,$$
+Begumpet,Woodland Store,Footwear,4.1,640,17.4450,78.4740,$$
+Ameerpet,Dominos Ameerpet,Restaurant,3.9,2400,17.4380,78.4490,$
+Ameerpet,Bata Store Ameerpet,Footwear,3.8,870,17.4370,78.4475,$
+Ameerpet,Max Fashion Ameerpet,Fashion Retail,4.0,1950,17.4390,78.4500,$
+Secunderabad,Minerva Coffee Shop,Restaurant,4.2,5600,17.4410,78.4995,$$
+Secunderabad,Bata MG Road,Footwear,3.9,1450,17.4390,78.4970,$
+Secunderabad,Raymond Shop,Fashion Retail,4.2,880,17.4420,78.5010,$$$
+Miyapur,KFC Miyapur,Restaurant,4.0,1850,17.4975,78.3625,$$
+Miyapur,Reliance Trends Miyapur,Fashion Retail,4.1,1350,17.4960,78.3605,$$
+Uppal,Dominos Uppal,Restaurant,4.0,1650,17.4030,78.5615,$
+Uppal,Bata Uppal,Footwear,3.9,780,17.4015,78.5590,$
+Dilsukhnagar,Bawarchi Biryani Dilsukhnagar,Restaurant,4.2,6200,17.3695,78.5260,$$
+Dilsukhnagar,South India Shopping Mall,Fashion Retail,4.1,4100,17.3675,78.5230,$$
+LB Nagar,Pizza Hut LB Nagar,Restaurant,4.0,1900,17.3465,78.5535,$$
+LB Nagar,Khadims Footwear,Footwear,3.8,620,17.3450,78.5510,$

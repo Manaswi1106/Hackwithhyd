@@ -1,0 +1,49 @@
+area,category,store_size_sqft,monthly_sales,avg_ticket_size,operating_months,seasonality_index
+Madhapur,Specialty Coffee,1200,920000,380,24,1.15
+Madhapur,Restaurant,2400,1850000,750,36,1.25
+Madhapur,Fashion Retail,1800,1420000,2600,18,1.35
+Madhapur,Footwear,1500,1180000,2200,28,1.20
+Gachibowli,Specialty Coffee,1100,880000,360,30,1.12
+Gachibowli,Restaurant,2200,1720000,720,40,1.20
+Gachibowli,Sports Retail,2000,1650000,3100,22,1.30
+Gachibowli,Footwear,1600,1260000,2300,32,1.18
+HITEC City,Specialty Coffee,1400,1150000,420,36,1.20
+HITEC City,Restaurant,2800,2250000,820,48,1.30
+HITEC City,Fashion Retail,2200,1950000,3400,24,1.40
+HITEC City,Footwear,1800,1540000,2800,30,1.25
+Kondapur,Specialty Coffee,950,680000,320,18,1.10
+Kondapur,Restaurant,1800,1280000,600,24,1.18
+Kondapur,Footwear,1400,920000,1900,16,1.15
+Financial District,Specialty Coffee,1500,1280000,450,20,1.18
+Financial District,Restaurant,2600,2100000,900,26,1.22
+Financial District,Footwear,1500,1100000,2700,14,1.15
+Jubilee Hills,Specialty Coffee,1800,1450000,520,48,1.28
+Jubilee Hills,Restaurant,3500,3200000,1450,60,1.45
+Jubilee Hills,Fashion Retail,2800,2850000,4800,36,1.55
+Jubilee Hills,Footwear,2000,1850000,3900,42,1.35
+Banjara Hills,Specialty Coffee,1600,1320000,490,44,1.25
+Banjara Hills,Restaurant,3200,2900000,1350,54,1.40
+Banjara Hills,Fashion Retail,2600,2600000,4500,40,1.50
+Banjara Hills,Footwear,1900,1750000,3600,38,1.30
+Kukatpally,Restaurant,2500,1750000,550,48,1.30
+Kukatpally,Fashion Retail,2400,1680000,1800,36,1.45
+Kukatpally,Footwear,1800,1350000,1450,42,1.35
+Kukatpally,Specialty Coffee,900,580000,280,20,1.10
+Begumpet,Restaurant,2000,1350000,620,48,1.20
+Begumpet,Fashion Retail,1600,1120000,2100,30,1.25
+Begumpet,Footwear,1400,960000,1750,36,1.20
+Ameerpet,Restaurant,1800,1250000,420,50,1.15
+Ameerpet,Footwear,1500,1150000,1350,44,1.25
+Ameerpet,Fashion Retail,1800,1220000,1600,38,1.30
+Secunderabad,Restaurant,2200,1520000,480,60,1.22
+Secunderabad,Footwear,1600,1280000,1300,56,1.25
+Secunderabad,Fashion Retail,2000,1450000,1700,52,1.35
+Miyapur,Restaurant,1600,980000,450,24,1.15
+Miyapur,Footwear,1200,740000,1350,20,1.20
+Uppal,Restaurant,1700,920000,420,22,1.15
+Uppal,Footwear,1300,690000,1250,18,1.18
+Dilsukhnagar,Restaurant,2400,1650000,460,54,1.28
+Dilsukhnagar,Footwear,1800,1420000,1380,48,1.32
+Dilsukhnagar,Fashion Retail,2200,1580000,1650,42,1.40
+LB Nagar,Restaurant,1900,1150000,440,28,1.18
+LB Nagar,Footwear,1400,820000,1300,22,1.20

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-sidebar-background: hsl(var(--sidebar-background));
+  --color-sidebar-foreground: hsl(var(--sidebar-foreground));
+  --color-sidebar-border: hsl(var(--sidebar-border));
+  --color-sidebar-accent: hsl(var(--sidebar-accent));
+  --color-sidebar-accent-foreground: hsl(var(--sidebar-accent-foreground));
+  --color-chart-1: hsl(var(--chart-1));
+  --color-chart-2: hsl(var(--chart-2));
+  --color-chart-3: hsl(var(--chart-3));
+  --color-chart-4: hsl(var(--chart-4));
+  --color-chart-5: hsl(var(--chart-5));
+  --color-luxury-bg: #F8F2EC;
+  --color-luxury-card: #FFF9F6;
+  --color-luxury-primary: #D98B95;
+  --color-luxury-secondary: #EFC7CD;
+  --color-luxury-accent: #7A3E46;
+  --color-luxury-text: #3D2A2D;
+  --color-luxury-border: #E8D7D0;
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+@layer base {
+  :root {
+    /* Luxury Feminine Beige / Blush Theme System */
+    --background: 30 43% 95%;      /* #F8F2EC Warm luxury linen / cream */
+    --foreground: 351 18% 20%;     /* #3D2A2D Rich espresso / cocoa */
+    --card: 20 100% 98%;          /* #FFF9F6 Porcelain / warm ivory */
+    --card-foreground: 351 18% 20%;/* #3D2A2D */
+    --popover: 20 100% 98%;
+    --popover-foreground: 351 18% 20%;
+    --primary: 352 53% 70%;        /* #D98B95 Dusty rose / blush */
+    --primary-foreground: 20 100% 98%; /* #FFF9F6 Porcelain text */
+    --secondary: 351 56% 86%;      /* #EFC7CD Soft rose petal */
+    --secondary-foreground: 352 33% 26%; /* Wine */
+    --muted: 24 30% 92%;           /* #F3E8E2 Warm cashmere tint */
+    --muted-foreground: 350 15% 45%;/* #7A666A Soft mocha */
+    --accent: 351 56% 92%;         /* #F8E8EA Soft blush accent */
+    --accent-foreground: 352 33% 36%;/* #7A3E46 Deep burgundy */
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 18 35% 86%;          /* #E8D7D0 Soft cashmere border */
+    --input: 18 35% 86%;           /* #E8D7D0 */
+    --ring: 352 53% 70%;           /* #D98B95 Blush */
+    --radius: 1.25rem;
+    --chart-1: 352 53% 70%;        /* Dusty Rose #D98B95 */
+    --chart-2: 352 33% 36%;        /* Burgundy #7A3E46 */
+    --chart-3: 355 58% 75%;        /* Coral #E5989B */
+    --chart-4: 150 25% 45%;        /* Sage Green */
+    --chart-5: 275 35% 60%;        /* Soft Lavender */
+    --sidebar-background: 30 43% 95%; /* Luxury Beige #F8F2EC */
+    --sidebar-foreground: 351 18% 20%; /* #3D2A2D */
+    --sidebar-border: 18 35% 86%;   /* #E8D7D0 */
+    --sidebar-accent: 351 56% 92%;  /* #F8E8EA */
+    --sidebar-accent-foreground: 352 33% 36%; /* #7A3E46 */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased font-sans;
+    background-color: #F8F2EC;
+    color: #3D2A2D;
+  }
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
